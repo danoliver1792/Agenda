@@ -60,7 +60,7 @@ namespace Contatos
                 {
                     command.Parameters.AddWithValue("@nome", nome);
                     command.Parameters.AddWithValue("@telefone", telefone);
-                    command.Parameters.AddWithValues("@Email", email);
+                    command.Parameters.AddWithValue("@Email", email);
 
                     command.ExecuteNonQuery();
                 }

@@ -1,0 +1,4 @@
+C:\Users\danrl\OneDrive\C#\Agenda\Contatos\Contatos\obj\Debug\net6.0\Contatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danrl\OneDrive\C#\Agenda\Contatos\Contatos\obj\Debug\net6.0\Contatos.AssemblyInfoInputs.cache
+C:\Users\danrl\OneDrive\C#\Agenda\Contatos\Contatos\obj\Debug\net6.0\Contatos.AssemblyInfo.cs
+C:\Users\danrl\OneDrive\C#\Agenda\Contatos\Contatos\obj\Debug\net6.0\Contatos.csproj.CoreCompileInputs.cache
